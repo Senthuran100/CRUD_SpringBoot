@@ -3,3 +3,5 @@ Expense Tracker- This is a sample Expense Tracking Project which is used to moni
 
 Can Add Category, Income and daily Expenses.
 Graphical View of the Expenses that is spent in each category.
+
+Technologies used - Spring Boot, Thymeleaf, JQuery, Bootstrap.
